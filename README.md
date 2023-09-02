@@ -11,20 +11,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![https://github.com/srihari-m-s/qr-code/blob/master/images/screenshots/qr-code.jpg?raw=true](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- [Solution] (https://www.frontendmentor.io/solutions/qrcode-component-solution-v6ObxSalzh)
+- [Live Site] (https://srihari-m-s.github.io/qr-code/)
 
 ### Built with
 
@@ -34,5 +30,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@srihari-m-s](https://www.frontendmentor.io/profile/srihari-m-s)
